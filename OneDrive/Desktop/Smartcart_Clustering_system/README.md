@@ -58,4 +58,5 @@ Dataset not included due to privacy constraints.
 * Integrate with recommendation systems
 
 
- ** If you find this project useful, consider starring the reposito
+ ** If you find this project useful, consider starring the repository
+
